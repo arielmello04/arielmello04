@@ -19,7 +19,7 @@
  
  <br>
  
-  ### Pra mais sobre mim aqui está minhas redes abaixo!
+  ### Pra mais sobre mim, aqui está minhas redes abaixo!
  
 <div> 
   
