@@ -21,7 +21,6 @@ Sou um desenvolvedor de software residindo em Camaçari, Bahia, Brasil, em const
   <img alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="45"/>&nbsp;
   <img alt="C#" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45"/>&nbsp;
   <img alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>&nbsp;
-  <img alt="SQL" title="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="45"/>&nbsp;
   <br/><br/>
   <strong>Frameworks & Bibliotecas:</strong><br/>
   <img alt="Spring / Spring Boot" title="Spring / Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height="45"/>&nbsp;
@@ -30,6 +29,7 @@ Sou um desenvolvedor de software residindo em Camaçari, Bahia, Brasil, em const
   <strong>Bancos de Dados:</strong><br/>
   <img alt="PostgreSQL" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="45"/>&nbsp;
   <img alt="SQL Server" title="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="45"/>&nbsp;
+  <img alt="SQL" title="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="45"/>&nbsp;
   <br/><br/>
   <strong>Ferramentas, Plataformas & Metodologias:</strong><br/>
   <img alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="45"/>&nbsp;
