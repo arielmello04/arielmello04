@@ -25,6 +25,7 @@ Sou um desenvolvedor de software residindo em Camaçari, Bahia, Brasil, em const
   <strong>Frameworks & Bibliotecas:</strong><br/>
   <img alt="Spring / Spring Boot" title="Spring / Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height="45"/>&nbsp;
   <img alt="Hibernate" title="Hibernate" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" height="45"/>&nbsp;
+  <img alt="React Native" title="React Native" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="45"/>&nbsp;
   <br/><br/>
   <strong>Bancos de Dados:</strong><br/>
   <img alt="PostgreSQL" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="45"/>&nbsp;
