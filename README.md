@@ -35,7 +35,6 @@ Sou um desenvolvedor de software residindo em Camaçari, Bahia, Brasil, em const
   <strong>Ferramentas, Plataformas & Metodologias:</strong><br/>
   <img alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="45"/>&nbsp;
   <img alt="Docker" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="45"/>&nbsp;
-  <img alt="AWS" title="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45"/>&nbsp;
   <br/>
 </p>
 
